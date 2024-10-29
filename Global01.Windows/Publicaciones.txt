@@ -1,0 +1,9 @@
+﻿Commando (Johnny Ramone)|2|5000
+Life (Keith Richards)|5|2500
+White line fever (Lemmy)|5|3000
+La Muerte de Superman (Superman)|10|1850|true
+Año Uno (Batman)|10|1270|false
+El regreso del Guazon|10|1800|true
+Falsa Faz ataca de nuevo|10|1900|true
+La resurrección de Krypton|10|1500|true
+Yo, Kal-El|10|1500|true
